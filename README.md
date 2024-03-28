@@ -1,8 +1,4 @@
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+Eveyone!+👋;I am JoonHo Seong ....;Nice+to+meet+you!&center=true&size=30">
-  </a>
-</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1A09F7&center=true&vCenter=true&multiline=true&random=false&width=435&lines=Hello%2C+Eveyone!++%E2%9C%8B;I'm+JoonHo+Seong+....;Nice+to+Meet+You!)](https://git.io/typing-svg)
 
 
 <h5 align="center">
