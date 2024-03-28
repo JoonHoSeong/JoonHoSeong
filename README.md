@@ -31,7 +31,7 @@
 <hr>
 
 <hr>
-<h2 align="center">:mechanical_arm: What I'm learning :mechanical_arm:</h2>
+<h2 align="center">:mechanical_arm: I'm learning :mechanical_arm:</h2>
 <br>
 </p>
 <hr>
