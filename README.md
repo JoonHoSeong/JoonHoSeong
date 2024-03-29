@@ -85,8 +85,11 @@
   <a href='https://github.com/JoonHoSeong/OZ_Backend_School'>
   <image src='https://github-readme-stats.vercel.app/api/pin/?username=JoonHoSeong&repo=OZ_Backend_School'>
  </a>
-  <a href='https://github.com/JoonHoSeong/Metro_Crowd_Project/tree/master/Metro_crowd'>
+ <a href='https://github.com/JoonHoSeong/Metro_Crowd_Project/tree/master/Metro_crowd'>
   <image src='https://github-readme-stats.vercel.app/api/pin/?username=JoonHoSeong&repo=Metro_Crowd_Project'>
+ </a>
+  <a href='https://github.com/JoonHoSeong/Java_Study'>
+  <image src='https://github-readme-stats.vercel.app/api/pin/?username=JoonHoSeong&repo=Java_Study'>
  </a>
 </div>
 
