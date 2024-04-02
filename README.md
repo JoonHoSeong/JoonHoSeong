@@ -3,9 +3,9 @@
 </h1>
 
 
-<h5 align="center">
+<h3 align="center">
   Hi I'm a developer from Korea 
-</h5>
+</h3>
 <br>
 <p align="center">
 
