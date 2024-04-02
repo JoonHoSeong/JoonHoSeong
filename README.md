@@ -4,10 +4,11 @@
 
 
 <h5 align="center">
+  Hi I'm a developer from Korea 
 </h5>
 <br>
 <p align="center">
- Hi I'm a developer from Korea 
+
   <br>
   <br>
   🔬 I'm currently studying backend.
