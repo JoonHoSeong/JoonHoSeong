@@ -1,9 +1,9 @@
 <h1 align="center">
+  
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=1A09F7&center=true&vCenter=true&random=false&width=500&lines=Hello%2C+Eveyone!++%E2%9C%8B;I'm+JoonHo+Seong+....;Nice+to+Meet+You!" alt="Typing SVG" /></a>
 </h1>
-
-
-<h3 align="center">
+<h3 align="center">  
+  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJoonHoSeong&count_bg=%23D2F3FF&title_bg=%235EEAFF&icon=&icon_color=%23E7E7E7&title=Hits&edge_flat=false"/></a><br>
   Hi I'm a developer from Korea 
 </h3>
 <br>
@@ -74,6 +74,10 @@
 <div align='center'>
  <img src='https://github-readme-stats.vercel.app/api?username=JoonHoSeong&show_icons=true'>
  <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=JoonHoSeong&layout=compact'>
+ <a herf="https://solved.ac/profile/joonho1366/", target="_blank">
+	<img src=http://mazassumnida.wtf/api/v2/generate_badge?boj=joonho1366>
+</a
+
 </div>
 <hr>
 <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
