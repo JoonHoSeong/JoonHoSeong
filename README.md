@@ -1,3 +1,4 @@
+
 <h1 align="center">
   
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=1A09F7&center=true&vCenter=true&random=false&width=500&lines=Hello%2C+Eveyone!++%E2%9C%8B;I'm+JoonHo+Seong+....;Nice+to+Meet+You!" alt="Typing SVG" /></a>
@@ -111,8 +112,11 @@
 	<h3>Programmers</h3>
 	<hr>
  <img src=https://github.com/JoonHoSeong/github-programmers-rank/blob/69006093b70880b020fb9645009674906e98561d/lib/result.svg>
-
+ <h3>LeetCode</h3>
+ <hr>
+	<img src = https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FM9fPN0QM6i&logo=leetcode&logoColor=yellow>
 </div>
+
 <hr>
 <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
 <br>
