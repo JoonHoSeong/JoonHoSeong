@@ -110,7 +110,7 @@
  </a>
 	<h3>Programmers</h3>
 	<hr>
- <img src=https://github.com/JoonHoSeong/github-programmers-rank/blob/main/lib/result.svg>
+ <img src=https://github.com/JoonHoSeong/github-programmers-rank/blob/69006093b70880b020fb9645009674906e98561d/lib/result.svg>
 
 </div>
 <hr>
