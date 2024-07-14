@@ -127,12 +127,12 @@
   <a href='https://github.com/JoonHoSeong/OZ_Backend_School'>
   <image src='https://github-readme-stats.vercel.app/api/pin/?username=JoonHoSeong&repo=OZ_Backend_School'>
  </a>
- <a href='https://github.com/JoonHoSeong/Seoul_Commercial_District_Analysis'>
+<!--  <a href='https://github.com/JoonHoSeong/Seoul_Commercial_District_Analysis'>
   <image src='https://github-readme-stats.vercel.app/api/pin/?username=JoonHoSeong&repo=Seoul_Commercial_District_Analysis'>
  </a>
   <a href='https://github.com/JoonHoSeong/Java_Study'>
   <image src='https://github-readme-stats.vercel.app/api/pin/?username=JoonHoSeong&repo=Java_Study'>
- </a>
+ </a> -->
 </div>
 
 <h4 align="center">
